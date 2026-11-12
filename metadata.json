@@ -1,0 +1,6 @@
+{
+  "name": "Test de Resolución de Conflictos - Mediación",
+  "description": "¿Cómo resuelves los conflictos? Descubre tu estilo de comunicación (asertivo, pasivo o agresivo) y tus personajes afines en 3 minutos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
